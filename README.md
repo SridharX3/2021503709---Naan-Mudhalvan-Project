@@ -1,3 +1,5 @@
+**2021503709 - Naan Mudhalvan Project (TNSDC Machine learning to Generative AI)**
+
 **Handwriting Detection on Handwriting-Recognition Dataset:**
 
 This project focuses on implementing handwriting detection using Convolutional Neural Networks (CNN) with TensorFlow.
@@ -17,3 +19,6 @@ Convolutional Neural Networks (CNN)
 
 Clone the repository:
 git clone [https://github.com/SridharX3/2021503709---Naan-Mudhalvan-Project.git]
+
+
+dataset link: [https://www.kaggle.com/code/abhaychaudhary01/handwriting-recognition]
